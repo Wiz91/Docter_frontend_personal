@@ -1,0 +1,9 @@
+.active{
+    /* color:#305CCC; */
+    /* background-color: rgba(182, 226, 182, 0.603); */
+    /* background-color:#f4f4f5; */
+    /* border-radius: 12px; */
+    border-radius: 2px;
+    border-left: solid white 4px;
+    color: #FFFFFF !important;
+}
